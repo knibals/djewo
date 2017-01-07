@@ -11,6 +11,14 @@
 			"versionExact": "v1.3.0"
 		},
 		{
+			"checksumSHA1": "ezRkrYYy9mMxREVDryjD5NlHa7M=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "8c199fb6259ffc1af525cc3ad52ee60ba8359669",
+			"revisionTime": "2015-04-21T17:00:07Z",
+			"version": "v1",
+			"versionExact": "v1.1"
+		},
+		{
 			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
 			"path": "golang.org/x/sys/unix",
 			"revision": "d75a52659825e75fff6158388dddc6a5b04f9ba5",
