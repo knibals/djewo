@@ -1,1 +1,1 @@
-web: main
+web: djewo -port=$PORT
