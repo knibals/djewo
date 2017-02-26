@@ -18,5 +18,5 @@ func main() {
 		fmt.Fprintln(w, "Bonjour le monde")
 	})
 	log.Printf("Serveur démarré sur http://localhost:%s...\n", port)
-	http.ListenAndServe("localhost:"+port, nil)
+	http.ListenAndServe(":"+port, nil)
 }
